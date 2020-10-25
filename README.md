@@ -2,7 +2,6 @@
 Yoga rhythm game created for Dandyhacks 2020
 
 
-src code
 
 Link contains the yoga.zip to run the .exe
 
