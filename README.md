@@ -1,7 +1,10 @@
 # Yoga
 Yoga rhythm game created for Dandyhacks 2020
+Creators: Wyatt Matt & Tonia Sanzo
 
 
+Thank you Young Kartz, Les Cartes Postales Sonores, and Ketsa for the music they
+* shared under the Creative Commons license.
 
 Link contains the yoga.zip to run the yoga.exe
 
