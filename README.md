@@ -32,4 +32,5 @@ The menu screen
 
 
 The gameplay
+
 ![Gameplay](yoga_gameplay.jpg)
