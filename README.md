@@ -22,7 +22,7 @@ https://drive.google.com/file/d/1AGGDtuCoVH82w1tS_ZcKgfYc-Izddx_V/view?usp=shari
 
 
 
-
+The menu screen
 
 ![Menu Screen](yoga_menu.jpg)
 
@@ -31,5 +31,5 @@ https://drive.google.com/file/d/1AGGDtuCoVH82w1tS_ZcKgfYc-Izddx_V/view?usp=shari
 
 
 
-
+The gameplay
 ![Gameplay](yoga_gameplay.jpg)
